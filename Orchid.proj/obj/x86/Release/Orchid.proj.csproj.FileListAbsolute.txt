@@ -1,0 +1,7 @@
+C:\Users\Melanie\Documents\Visual Studio 2010\Projects\Orchid.proj\Orchid.proj\bin\Release\Orchid.proj.exe
+C:\Users\Melanie\Documents\Visual Studio 2010\Projects\Orchid.proj\Orchid.proj\bin\Release\Orchid.proj.pdb
+C:\Users\Melanie\Documents\Visual Studio 2010\Projects\Orchid.proj\Orchid.proj\obj\x86\Release\Orchid.proj.OrchidCare.resources
+C:\Users\Melanie\Documents\Visual Studio 2010\Projects\Orchid.proj\Orchid.proj\obj\x86\Release\Orchid.proj.Properties.Resources.resources
+C:\Users\Melanie\Documents\Visual Studio 2010\Projects\Orchid.proj\Orchid.proj\obj\x86\Release\Orchid.proj.csproj.GenerateResource.Cache
+C:\Users\Melanie\Documents\Visual Studio 2010\Projects\Orchid.proj\Orchid.proj\obj\x86\Release\Orchid.proj.exe
+C:\Users\Melanie\Documents\Visual Studio 2010\Projects\Orchid.proj\Orchid.proj\obj\x86\Release\Orchid.proj.pdb
